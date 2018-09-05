@@ -1,14 +1,14 @@
 ﻿## PreWork1
 
 ### App Description
-`TODO://` Allows user to: see custom text in a label, see a custom background color, and tap a button to change the text color of the label. The app also allows the user to: tapa button to change the color of the background view, tap a button to change the text string of the label, tap on the background view to reset all views to default settings, and update the label text with custom text entered into a text field. 
+`TODO://` Allows user to: see custom text in a label, see a custom background color, and tap a button to change the text color of the label. The app also allows the user to: tap a button to change the color of the background view, tap a button to change the text string of the label, tap on the background view to reset all views to default settings, and update the label text with custom text entered into a text field. 
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
+`TODO://
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://github.com/Stag66/StagPreWork/blob/master/myprework.gif" width=200><br>
 
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
+`TODO://
 
 ### Required User Stories
 - [x ] 1. User sees custom text in a label - Hello from {name}!
